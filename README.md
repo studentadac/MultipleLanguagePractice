@@ -1,2 +1,3 @@
 # MultipleLanguagePractice
 演習の詰め合わせ
+写経しても頭に入らないから

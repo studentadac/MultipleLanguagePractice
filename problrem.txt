@@ -268,8 +268,8 @@ wasio 175 72.5
 
 
 
-
-
+arpack 3.5.0, hdf5 1.10.1_2, octave 4.2.1_7, openblas-julia 0.2.20, qrupdate 1.1.2_6, suite-s
+parse-julia 4.4.6_3, veclibfort 0.4.2_4
 
 
 

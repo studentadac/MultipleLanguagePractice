@@ -1,1 +1,86 @@
 1-1,整数値１５と３７の和を計算して表示せよ
+memo
+整数で書かれた数式の出力について
+
+C言語
+#include<stdio.h>
+関数開始
+printf("%d",数字);
+関数終了
+
+
+C++
+#include<iostream>
+using namespace std;
+関数開始
+....,
+std::cout << 数式 << std::endl;
+....
+関数終了
+
+
+clisp
+(print (数式))
+
+clojure
+(println (数式))
+
+bash
+echo　$((数式))
+
+go言語
+package main
+import "fmt"
+関数開始
+fmt.Println(15+37)
+関数終了
+
+java
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class Ideone
+{
+ public static void main (String[] args) throws java.lang.Exception
+ {
+
+   System.out.println(15+37);
+   // your code goes here
+ }
+}
+
+D言語
+
+import std.stdio;
+void main(){
+	    writeln(15+37);
+}
+
+R言語
+インタプリタを開いてから
+source('プログラムファイル名')で実行
+print(15+37)
+
+
+ruby
+print 数式
+
+
+python
+print(15+37)
+
+
+
+f#
+printfn "%d" 数式　だとコンパイルエラー
+
+let main argv =
+
+    let int = 15 + 37
+
+
+    printfn "int = %d " int
+    0 // return an integer exit code

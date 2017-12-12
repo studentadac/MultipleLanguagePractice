@@ -84,3 +84,8 @@ let main argv =
 
     printfn "int = %d " int
     0 // return an integer exit code
+
+C#
+using System;
+クラスとかメインとか
+        Console.WriteLine (15+37);

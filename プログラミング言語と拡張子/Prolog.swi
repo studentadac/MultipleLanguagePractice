@@ -1,0 +1,2 @@
+goal :-
+  write('hello, world!\n').
